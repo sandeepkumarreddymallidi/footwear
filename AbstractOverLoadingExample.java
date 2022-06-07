@@ -21,7 +21,7 @@ public class AbstractOverLoadingExample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Cost money=new Cost();
-		money.price(3000.55d);
-		money.price(3000.55d,25);
+		money.price(300.55d);
+		money.price(300.55d,25);
 	}
 }
